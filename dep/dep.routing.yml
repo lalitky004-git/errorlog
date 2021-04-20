@@ -1,0 +1,7 @@
+dep.num_form:
+  path: 'loggerform/wholefactory'
+  defaults:
+    _form: '\Drupal\dep\Form\NumForm'
+    _title: 'Implementing logger'
+  requirements:
+    _permission: 'access content'

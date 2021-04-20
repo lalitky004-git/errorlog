@@ -1,0 +1,5 @@
+services:
+    dep.calc_num:
+        class: Drupal\dep\MyService
+        arguments:
+          - '@logger.factory'

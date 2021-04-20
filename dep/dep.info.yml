@@ -1,0 +1,4 @@
+name: dep
+description: Injecting logger factory
+type: module
+core: 8.x
